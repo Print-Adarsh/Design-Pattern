@@ -1,4 +1,4 @@
-import org.example.Singleton.Builder.Student;
+import org.example.Dp.Builder.Student;
 
 public class Main {
     public static void main(String[] args) {

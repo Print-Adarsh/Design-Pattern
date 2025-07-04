@@ -1,4 +1,4 @@
-    package org.example.Singleton.Builder;
+    package org.example.Dp.Builder;
 
     public class Client {
         public static void main(String[] args) {
