@@ -8,6 +8,7 @@ public class Student {
     private String batch;
 
     public  static Builder getBuilder(){
+
         return new Builder();
     }
 
@@ -115,7 +116,7 @@ public class Student {
 
         public Builder setGradeYear(int gradeYear) {
             this.gradeYear = gradeYear;
-            return this.
+            return this;
         }
 
         public String getBatch() {

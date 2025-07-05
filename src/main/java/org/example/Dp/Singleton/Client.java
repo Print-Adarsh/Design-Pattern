@@ -5,7 +5,7 @@ public class Client {
 //        DBConn db1= new DBConn();
 //        DBConn db2= new DBConn();
 //        System.out.println("db1 " + db1);
-//        System.out.print("db2 " + db2); SAME ADDRESS OUTPUTT
+//        System.out.print("db2 " + db2); SAME ADDRESS OUTPUTT not
 
 
 
